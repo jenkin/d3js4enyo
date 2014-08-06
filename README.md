@@ -1,3 +1,5 @@
+Interesting and useful imho, but a very difficult task for me. _Abandoned_.
+
 D3 lib for Enyo framework
 ========================
 
